@@ -1,6 +1,7 @@
 # Web Content Crawler and Search Tool
 
-This project contains a Python script that converts a decimal string into its binary equivalent. The script also includes input validation to ensure that the input is a valid number.
+This project contains a Python script that scrapes https://quotes.toscrape.com/ and creates a searchable reverse index.
+Please remember to respect their politeness policy.
 
 ## Features
 
@@ -49,7 +50,7 @@ This project contains a Python script that converts a decimal string into its bi
     ```
 3. Search for a term or multiple terms:
     ```bash
-    
+
     python3 search.py find Albert Einstein
 
     +------------------------------------------+----------+------------+------------------+
