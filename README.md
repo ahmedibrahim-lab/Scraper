@@ -17,6 +17,7 @@ Please remember to respect their politeness policy.
 
 - Python 3.x installed on your system.
 - Requests, BeautifulSoup, NLTK and PrettyTable installed on your system or within your environment. They can be installed using this command:
+
     ```bash
     pip install requests beautifulsoup4 prettytable nltk
     ```
@@ -41,14 +42,17 @@ Please remember to respect their politeness policy.
 ### Example
 
 1. Build the Index:
+
     ```bash
         python3 search.py build
     ```
 2. Load the Index:
+
     ```bash
     python3 search.py load
     ```
 3. Search for a term or multiple terms:
+
     ```bash
 
     python3 search.py find Albert Einstein
