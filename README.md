@@ -44,7 +44,7 @@ Please remember to respect their politeness policy.
 1. Build the Index:
 
     ```bash
-        python3 search.py build
+    python3 search.py build
     ```
 2. Load the Index:
 
